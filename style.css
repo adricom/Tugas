@@ -1,0 +1,32 @@
+.jumbotron {
+    background-size: contain;
+    text-align: center;
+}
+.display-4 {
+    font-size: 30px;
+    margin-top: 50px;
+
+}
+.btn {
+    border-radius: 20px;
+}
+p {
+    color: black;
+}
+.my-4 {
+    border-width: 5px;
+
+}
+.carousel-item{
+    height: 670px;
+
+}
+.carousel-item img {
+    margin-top: -120px;
+}
+h2 {
+    text-align: center;
+}
+.profil {
+    margin-top: 1000px;
+}
