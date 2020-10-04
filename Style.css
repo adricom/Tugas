@@ -1,0 +1,155 @@
+
+body{
+    background-image: url(imgBack.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.navbar img {
+    margin-right : 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.navbar {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.navbar-nav .navitem:hover{
+    color: red;
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+.navbar li {
+    padding: 5px;
+    margin: 5px;
+}
+.jumbotron {
+    margin-top: 80px;
+    border-radius: 20px;
+    background-color: darkorange;
+}
+#jumbo1 {
+    background-image: url(https://images.pexels.com/photos/3694708/pexels-photo-3694708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    background: transparent;
+    margin-top: 2px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    padding-bottom: 30px;
+}
+#jumbo0 h1{
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#jumbo0 {
+    background-image: url(https://images.pexels.com/photos/309293/pexels-photo-309293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    background-position: ;
+    background-repeat: no-repeat;
+    background-position:center;
+    color: whitesmoke;
+}
+#jumbo1 h1 {
+    color: white;
+    text-align: center;
+    font: 50px;
+    font-family: woodland;
+    
+}
+#jumbo1 img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    border: 5px solid;
+}
+#jumbo1 h2{
+    color: whitesmoke;
+    font-size: 60px;
+    margin: 5px 4px;
+    font-family: arial-bold;
+}
+.copyright {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: grey;
+    width: 100%;
+
+}
+.jumbotron .lead{
+    text-align: center;
+    color: whitesmoke;
+}
+#jumbo2 {
+    background-image: url(https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+}
+#jumbo2 h2{
+    color: greenyellow;
+    text-decoration: underline;
+    font-size: 30px;
+    margin: 5px 4px;
+    margin-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#jumbo2 {
+    padding: 10px 20px;
+    margin-top: 0;
+    padding-bottom: 30px;
+}
+#tombol:hover {
+    float: ;
+    color: blueviolet;
+}
+
+.card-deck .card img{
+    width: 100px;
+    height: 100px;
+    padding-top: 15px;
+    margin: auto;
+}
+.card-deck .card {
+    border-radius: 50px;
+    background: transparent;
+    border: 5px whitesmoke solid;
+}
+.card-deck h5, p {
+    font-weight: bold;
+}
+.card-deck a{
+    color: black;
+}
+.card-deck a:hover{
+    text-decoration: none;
+    color: blue;
+    background-color: darkgreen;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.card-decka:active {
+    color: greenyellow;
+    background-color: darkgreen;
+    text-decoration: none;
+}
+.card-deck a:visited {
+    color: greenyellow;
+    background-color: whitesmoke;
+}
+.card-deck .card-footer {
+    font-weight: bold;
+    border-radius: 30px;
+}
+.card-deck .card-footer .text-muted {
+    color: white;
+}
+.card-deck p{
+    color: black;
+    font-weight: bold;
+}
+.carausel-inner img{
+    width: 100%;
+    height: 100%;
+    size: 100px;
+}
