@@ -80,3 +80,7 @@ label {
   margin: -1.1rem auto 0 auto;
   width: 89px;
 }
+div p {
+  text-align: center;
+  color : grey;
+}
