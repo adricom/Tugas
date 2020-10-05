@@ -83,4 +83,5 @@ label {
 div p {
   text-align: center;
   color : grey;
+  padding-bottom : 5px;
 }
